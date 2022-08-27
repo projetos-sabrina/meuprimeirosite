@@ -15,3 +15,22 @@
      width: 80%;
      margin: auto;
  }
+
+ h1,h2{
+    font-size: 3em;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    text-align: center;
+    color: #F2A00;
+    
+ }
+
+
+ .video{
+    text-align:center;
+    width: 50%;
+    float: left;
+ }
+ footer{
+
+    clear: both;
+ }
