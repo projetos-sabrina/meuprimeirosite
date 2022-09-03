@@ -17,11 +17,17 @@
  }
 
  h1,h2{
-    font-size: 3em;
+    font-size: 4em;
     font-family: 'Alumni Sans Collegiate One', sans-serif;
     text-align: center;
-    color: #F2A00;
+    color: #8C2703;
     
+ }
+
+ p{
+     text-align: center;
+     color: #F2A007;
+     font-size: 2em;
  }
 
 
@@ -33,4 +39,17 @@
  footer{
 
     clear: both;
+    background-color: #F2A007;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    text-align: center;
+ }
+
+ header{
+     
+    
+    background-color: #F2A007;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    text-align: center;
  }
